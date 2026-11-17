@@ -1,7 +1,8 @@
 1) What's your favorite animal?
-
+dog
 
 2) What's your favorite color?
-
+blue
 
 3) Is this workshop fire?
+yes
